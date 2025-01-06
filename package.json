@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "expo-app-loading": "^2.1.1",
+    "expo-cli": "^6.3.10"
+  }
+}
