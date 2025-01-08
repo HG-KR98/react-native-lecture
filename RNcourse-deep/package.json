@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "expo": "~52.0.23",
-    "expo-app-loading": "^2.1.1",
-    "expo-cli": "^6.3.10",
+    "expo-app-loading": "^1.1.2",
+    "expo-cli": "^4.0.17",
     "expo-font": "^13.0.2",
     "expo-linear-gradient": "~14.0.1",
     "expo-status-bar": "~2.0.0",
