@@ -9,7 +9,7 @@ import {
 import { Ionicons } from "@expo/vector-icons";
 
 import InstructionText from "../components/ui/InstructionText.js";
-import Title from "../components/ui/Title.js";
+import Title from "../components/ui/Title";
 import NumberContainer from "../components/game/NumberContainer.js";
 import PrimaryButton from "../components/ui/PrimaryButton.js";
 import Card from "../components/ui/Card.js";
