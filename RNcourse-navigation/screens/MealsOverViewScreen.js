@@ -24,7 +24,7 @@ const MealsOverViewScreen = ({ route, navigation }) => {
     });
   }, [catId, navigation]);
 
-  return <MealList items={displayedMeals} />;
+  return <MealList items={displayedMeals} navigation={navigation} />;
 };
 
 export default MealsOverViewScreen;
